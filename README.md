@@ -31,8 +31,11 @@ Bu proje, C dilinde `struct`, `union` ve `enum` kavramlarını bir arada kullana
 ## Örnek Çalıştırma
 
 ogrencinin adini giriniz= Ahmet
+
 ogrencinin soyadini giriniz= Yılmaz
+
 ogrencinin yasini giriniz= 20
+
 hangi harf sisteminde notunu girmek istiyorsunuz=
 harf notu =1
 sayisal notu =2
@@ -70,3 +73,4 @@ notu= 85
 ## Dosya
 
 - `ogrenci_not_sistemi.c` – C programının kaynak kodu.
+
