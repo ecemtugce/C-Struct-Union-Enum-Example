@@ -44,10 +44,16 @@ sayisal notu =2
 
 1
 harf notunu giriniz= AA
+
 adi= Ahmet
+
 soyadi= Yılmaz
+
 yasi= 20
+
 notu= AA
+
+
 
 ogrencinin adini giriniz= Elif
 
@@ -60,11 +66,16 @@ hangi harf sisteminde notunu girmek istiyorsunuz=
 harf notu =1
 
 sayisal notu =2
+
 2
 notu giriniz= 85
+
 adi= Elif
+
 soyadi= Demir
+
 yasi= 22
+
 notu= 85
 
 
@@ -81,5 +92,6 @@ notu= 85
 ## Dosya
 
 - `ogrenci_not_sistemi.c` – C programının kaynak kodu.
+
 
 
